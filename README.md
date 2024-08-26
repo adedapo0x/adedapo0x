@@ -15,7 +15,7 @@ Greetings! I'm a software engineer with a strong focus on backend development. M
 - Node.js, Express, Flask
 - HTML, CSS, Tailwind CSS
 - PostgreSQL, MongoDB
-- Git, GitHub, VS Code, IntelliJ IDEA, WebStorm
+- Git, GitHub, Postman, VS Code, IntelliJ IDEA, WebStorm
 
 
 
