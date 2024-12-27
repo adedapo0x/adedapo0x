@@ -12,10 +12,10 @@ Greetings! I'm a software engineer with a strong focus on backend development. M
 ### Skills
 **Languages:** JavaScript, TypeScript, Python, Java, SQL
 #### Frameworks and Technologies:
-- Node.js, Express, Flask
+- Node.js, Express.js, Nest.js, Flask
 - HTML, CSS, Tailwind CSS
 - PostgreSQL, MongoDB
-- Git, GitHub, Postman, VS Code, IntelliJ IDEA, WebStorm
+- Docker, Git, GitHub, Postman, VS Code, IntelliJ IDEA, WebStorm
 
 
 
