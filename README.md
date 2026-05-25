@@ -1,5 +1,5 @@
 ### heyyy,
-## my name is Adeyemi Al-Hameen Adedapo, a Backend Engineer.
+## i'm adeyemi al-Hameen adedapo, a Backend Engineer.
 
 ### About Me
 Greetings! I'm a software engineer with a strong focus on backend development. My passion for this field comes from a constant desire to learn and solve complex problems. I love getting my hands dirty while trying to build efficient and secure systems that tackle real-world challenges and I do enjoy using tools I learn to solve problems that I conceive. 
