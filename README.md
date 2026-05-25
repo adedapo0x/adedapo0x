@@ -10,7 +10,7 @@ Greetings! I'm a software engineer with a strong focus on backend development. M
 -  Fun fact: I do wish I was good at basketball and chess, who knows? maybe it's not too late for me
 
 ### Skills
-**Languages:** JavaScript, TypeScript, Python, Java, C#, SQL
+**Languages:** TypeScript/JavaScript, Python, Java, C#, SQL
 #### Frameworks and Technologies:
 - Node.js, Express.js, Nest.js, Flask
 - PostgreSQL, MongoDB
